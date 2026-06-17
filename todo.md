@@ -1,3 +1,7 @@
 # todo
 
-- [ ] Change DNS from [rmagesto](https://github.com/rmagesto/rmagesto.github.io) to [treino-por-ai](https://github.com/treino-por-ai/treino-por-ai.github.io)
+- [ ] corrigir os textos das quatro páginas (academia, personal trainer, comercio, aluno)
+
+- [ ] alterar os links para enviar mensagens pro whatsapp 
+
+- [ ] corrigir as imagens (print do splashscreen do aplicativo)
