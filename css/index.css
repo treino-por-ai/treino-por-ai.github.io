@@ -203,7 +203,7 @@ select:focus {
 }
 
 .phone-mock {
-  background: #0b0b0b;
+  /* background: #0b0b0b; */
   border-radius: 18px;
   padding: 18px;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.6);
