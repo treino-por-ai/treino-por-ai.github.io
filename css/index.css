@@ -963,5 +963,9 @@ body {
     min-width: 100%;
   }
 
+  .feature-cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
   ;
 }
