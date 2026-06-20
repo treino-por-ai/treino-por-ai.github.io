@@ -1,8 +1,6 @@
-- [x] colocar o print do splashscreen do aplicativo
+- [ ] Colocar página no Google (gratuito)
 
-- [x] Configurar tamanho da tela para smartphone/tablet
-
-- [x] implementar a página "Baixar App"
+- [ ] Procurar academias com IA (data science)
 
 ---
 
