@@ -573,7 +573,7 @@ body {
 
 .btn-primary {
   background: linear-gradient(135deg, var(--accent), var(--accent-dark));
-  color: #001a0a;
+  color: #001a0a !important;
   padding: 13px 24px;
   border-radius: 10px;
   font-weight: 700;
@@ -586,6 +586,7 @@ body {
 .btn-primary:hover {
   transform: translateY(-2px);
   box-shadow: 0 8px 28px rgba(78, 243, 106, 0.45);
+  color: #001a0a !important;
 }
 
 .btn-secondary {
@@ -840,6 +841,13 @@ body {
   line-height: 1.5;
 }
 
+/* About us */
+.about-section {
+  max-width: var(--max-width);
+  margin: 0 auto 48px;
+  padding: 0 24px;
+}
+
 /* Footer */
 .site-footer {
   border-top: 1px solid rgba(255, 255, 255, 0.05);
@@ -856,7 +864,7 @@ body {
 
 .footer-links {
   display: flex;
-  justify-content: center;
+  /* justify-content: center; */
   gap: 24px;
   margin-bottom: 16px;
   flex-wrap: wrap;
