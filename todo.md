@@ -1,27 +1,11 @@
-- [ ] Colocar projeto no Google (gratuito)
+- [-] Colocar projeto no Google (search.google.com/search-console)
 
-- [ ] Procurar academias com IA (data science)
+- [ ] Analisar página (https://pagespeed.web.dev/)
 
-- [ ] Criar página "Politica de privacidade"
-
-- [ ] Criar página "Sobre nós"
+- [ ] Procurar academias (com IA) (data science)
 
 ---
 
-- [ ] Alterar os "nossos valores"
+- [x] Criar página "Politica de privacidade"
 
-# titulo: 🤝 Confiança
-
-## subtitulo: Construímos relações seguras e transparentes entre alunos, profissionais e academias, criando um ambiente onde todos podem evoluir com tranquilidade.
-
-# titulo:📍 Acessibilidade
-
-## subtitulo: Facilitamos o acesso ao esporte e ao bem-estar, aproximando pessoas das melhores oportunidades para treinar onde e quando desejarem.
-
-# titulo: 🚀 Evolução
-
-## subtitulo: Acreditamos que cada treino é um passo em direção a uma versão melhor de si mesmo. Nosso compromisso é impulsionar essa jornada diariamente.
-
-# titulo: 🔗 Conexão
-
-## subtitulo: Unimos alunos, personal trainers, academias e estabelecimentos em um único ecossistema, tornando a experiência fitness mais simples e completa.
+- [x] Criar página "Sobre nós"
