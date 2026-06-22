@@ -1,6 +1,10 @@
-- [ ] Colocar página no Google (gratuito)
+- [ ] Colocar projeto no Google (gratuito)
 
 - [ ] Procurar academias com IA (data science)
+
+- [ ] Criar página "Politica de privacidade"
+
+- [ ] Criar página "Sobre nós"
 
 ---
 
