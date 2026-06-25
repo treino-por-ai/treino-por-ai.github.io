@@ -884,6 +884,18 @@ body {
   opacity: 0.5;
 }
 
+.footer-copy-wrap {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.footer-copy-wrap a {
+  color: var(--muted);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
 /* Skip link */
 .skip-link {
   position: absolute;
