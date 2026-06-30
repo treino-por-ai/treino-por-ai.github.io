@@ -1,0 +1,1 @@
+ffmpeg -y -i imgs/icon-treinoporai-001.png -vf scale=-1:256 favicon.ico
