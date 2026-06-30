@@ -6,6 +6,6 @@
 
 - [ ] Arrumar para quando o celular estiver na vertical, apareçam as opções de "Aluno, academia, Personal e comércio"
 
-- [ ] Colocar as imagens nos cards de cada ator.
+- [x] Colocar as imagens nos cards de cada ator.
 
 - [ ] Atualizar página "Termos de Uso" a partir do PDF.
