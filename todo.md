@@ -8,4 +8,4 @@
 
 - [x] Colocar as imagens nos cards de cada ator.
 
-- [ ] Atualizar página "Termos de Uso" a partir do PDF.
+- [x] Atualizar página "Termos de Uso" a partir do PDF.
